@@ -23,7 +23,7 @@ Ever since I was a child, I've been intrigued by the mysteries of the world arou
 
 
 
-
+<!--
 <h2 align="left">Hi 👋! My name is Dhruv Patel and I'm a Web Developer from GUJARAT, INDIA</h2>
 
 ###
@@ -148,4 +148,4 @@ Ever since I was a child, I've been intrigued by the mysteries of the world arou
 
 <img src="https://raw.githubusercontent.com/techydhruv28/techydhruv28/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
